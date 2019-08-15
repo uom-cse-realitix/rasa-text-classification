@@ -4,6 +4,7 @@ from rasa_nlu import config
 
 command = "not_exit"
 
+
 def read_and_write(command_value):
     while command_value != "exit":
         command_input = input("Enter a command: ")
@@ -13,6 +14,7 @@ def read_and_write(command_value):
             print("Exiting..")
             break
 
+
 training_data = load_data('data/examples/fusion/fusion.md')
 trainer = Trainer(config.load("configurations/fusion_configs.yml"))
 trainer.train(training_data)
@@ -20,7 +22,3 @@ model_directory = trainer.persist('./projects/default/')
 interpreter = Interpreter.load(model_directory)
 
 read_and_write(command)
-
-
-
-
