@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/dasun/Documents/rasa_sample/./projects/default/default/model_20190815-110821/component_5_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "/home/dasun/Documents/rasa_sample/./projects/default/default/model_20190815-110821/component_5_EmbeddingIntentClassifier.ckpt"

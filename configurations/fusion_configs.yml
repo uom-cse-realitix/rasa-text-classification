@@ -1,0 +1,6 @@
+# Resource: https://rasa.com/docs/rasa/nlu/choosing-a-pipeline/
+
+language: "en"
+
+pipeline: "supervised_embeddings"
+

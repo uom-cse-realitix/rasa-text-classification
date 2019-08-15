@@ -1,0 +1,37 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "count",
+        "text": "count"
+      },
+      {
+        "intent": "count",
+        "text": "how many"
+      },
+      {
+        "intent": "count",
+        "text": "number"
+      },
+      {
+        "intent": "color",
+        "text": "color of"
+      },
+      {
+        "intent": "focus",
+        "text": "highlight"
+      },
+      {
+        "intent": "focus",
+        "text": "show"
+      },
+      {
+        "intent": "focus",
+        "text": "color"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
