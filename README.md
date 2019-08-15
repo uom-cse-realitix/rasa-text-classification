@@ -14,7 +14,7 @@ Furthermore, another count vector is created for the intent label. In contrast t
 
 ## Setting up
 
-Please use the exported `conda` environment file named as `environment.yml` in the root directory in order to set up the environment for this project.
+Please use the exported `conda` environment file named as `environment.yml` in the root directory in order to set up the environment for this project. Change the `prefix` in the file accordingly.
 
 ## References
 
