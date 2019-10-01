@@ -19,3 +19,7 @@ Please use the exported `conda` environment file named as `environment.yml` in t
 ## References
 
 1. [Rasa NLU in Depth: Part 1 – Intent Classification](https://blog.rasa.com/rasa-nlu-in-depth-part-1-intent-classification/)
+2. [Enhancing Rasa NLU models with Custom Components](https://blog.rasa.com/enhancing-rasa-nlu-with-custom-components/)
+3. [Text Classification using SpaCy](https://www.kaggle.com/poonaml/text-classification-using-spacy)
+4. [Class Imbalance](https://rasa.com/docs/rasa/nlu/choosing-a-pipeline/#class-imbalance)
+3. [Text Classification using SpaCy](https://www.kaggle.com/poonaml/text-classification-using-spacy)
